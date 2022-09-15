@@ -129,7 +129,7 @@ let referrals =
       link: "https://smrtr.io/bvcZ8"
     }
   ],
-  Agile_Project_Manager:
+  Writing_or_Editing:
   [
     {
       title: "Technical Writer",
