@@ -3,22 +3,11 @@
 // usually good practice always use JSON as proper data, but in case such as this it will waste a resource and time
 let referrals =
 {
-  Consulting:
-  [
-    {
-      title: "Senior Functional Consultant",
-      link: "https://smrtr.io/bvcQT"
-    },
-    {
-      title: "Technial Consultant, ERP",
-      link: "https://smrtr.io/bvcQ-"
-    }
-  ],
   Customer_Service:
   [
     {
-      title: "Senior Functional Consultant",
-      link: "https://smrtr.io/bvcQT"
+      title: "Application Support Consultant",
+      link: "https://smrtr.io/bvcRd"
     }
   ],
   Engineering:
@@ -133,7 +122,7 @@ let referrals =
       link: "https://smrtr.io/bvcZ5"
     },
   ],
-  Agile_Project_Manager:
+  Management:
   [
     {
       title: "Agile Project Manager",
