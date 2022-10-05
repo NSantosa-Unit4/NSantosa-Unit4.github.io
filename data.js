@@ -29,10 +29,6 @@ let referrals =
       link: "https://smrtr.io/bvcRD"
     },
     {
-      title: "Product Manager - ERP Mobile Apps",
-      link: "https://smrtr.io/bvcRM"
-    },
-    {
       title: "Quality Manager Testing",
       link: "https://smrtr.io/bvcR-"
     },
@@ -62,13 +58,6 @@ let referrals =
     {
       title: "Senior Analyst Programmer",
       link: "https://smrtr.io/bvcSr"
-    }
-  ],
-  Human_Resources:
-  [
-    {
-      title: "People Success Advisor, Indonesia",
-      link: "https://smrtr.io/bvcSF"
     }
   ],
   Information_Technology:
