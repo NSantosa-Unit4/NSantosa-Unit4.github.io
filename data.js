@@ -3,130 +3,99 @@
 // usually good practice always use JSON as proper data, but in case such as this it will waste a resource and time
 let referrals =
 {
-  Customer_Service:
+  Software_Engineering:
   [
     {
-      title: "Application Support Consultant",
-      link: "https://smrtr.io/bvcRd"
-    }
-  ],
-  Engineering:
-  [
+      title: "Senior JAVA and C Software Engineer",
+      link: "https://smrtr.io/b_m48"
+    },
     {
-      title: "Associate Quality Engineer - Testing",
-      link: "https://smrtr.io/bvcRq"
+      title: "Senior Software Engineer (Java)",
+      link: "https://smrtr.io/b_m4V"
+    },
+    {
+      title: "Backend Software Engineer (Java)",
+      link: "https://smrtr.io/b_m5t"
+    },
+    {
+      title: "Frontend Developer (Angular/React)",
+      link: "https://smrtr.io/b_m97"
+    },
+    {
+      title: "Full-stack Web Developer (Java)",
+      link: "https://smrtr.io/b_mf6"
     },
     {
       title: "Associate Software Engineer",
-      link: "https://smrtr.io/bvcRt"
-    },
-    {
-      title: "Full-stack Web Developer(java)",
-      link: "https://smrtr.io/bvcRC"
-    },
-    {
-      title: "Product Manager",
-      link: "https://smrtr.io/bvcRD"
-    },
-    {
-      title: "Quality Manager Testing",
-      link: "https://smrtr.io/bvcR-"
-    },
-    {
-      title: "Senior Software Engineer",
-      link: "https://smrtr.io/bvcRW"
-    },
-    {
-      title: "Senior Software Engineer",
-      link: "https://smrtr.io/bvcS4"
-    },
-    {
-      title: "Software Engineer (DevOps)",
-      link: "https://smrtr.io/bvcS7"
-    },
-    {
-      title: "Software Engineer (ERP)",
-      link: "https://smrtr.io/bvcSg"
-    },
-    {
-      title: "Software Engineer (ERP)",
-      link: "https://smrtr.io/bvcSn"
-    }
-  ],
-  General_Business:
-  [
-    {
-      title: "Senior Analyst Programmer",
-      link: "https://smrtr.io/bvcSr"
-    }
-  ],
-  Information_Technology:
-  [
-    {
-      title: "Associate Quality Manager - Testing",
-      link: "https://smrtr.io/bvcTM"
-    },
-    {
-      title: "Associate Technical Writer",
-      link: "https://smrtr.io/bvcVG"
+      link: "https://smrtr.io/b_mfV"
     },
     {
       title: "Backend Developer (Java)",
-      link: "https://smrtr.io/bvcVW"
+      link: "https://smrtr.io/b_mgn"
     },
     {
-      title: "Frontend Developer (Angular/Reat)",
-      link: "https://smrtr.io/bvcWD"
+      title: "Software Engineering Manager",
+      link: "https://smrtr.io/b_mgW"
     },
     {
-      title: "Mobile Developer (Android & iOS)",
-      link: "https://smrtr.io/bvcXZ"
+      title: "Software Engineer (ERP)",
+      link: "https://smrtr.io/b_mhs"
     },
     {
-      title: "Mobile Developer (Android & iOS)",
-      link: "https://smrtr.io/bvcYf"
-    },
-    {
-      title: "Mobile Developer (Android)",
-      link: "https://smrtr.io/bvcYs"
-    },
-    {
-      title: "Quality Engineer (Tester)",
-      link: "https://smrtr.io/bvcYB"
+      title: "Senior Analyst Programmer",
+      link: "https://smrtr.io/b_mh_"
     },
     {
       title: "Senior Mobile Developer (Android & iOS)",
-      link: "https://smrtr.io/bvcYF"
+      link: "https://smrtr.io/b_mjn"
+    },
+    {
+      title: "Software Engineer (ERP)",
+      link: "https://smrtr.io/b_mjC"
     },
     {
       title: "Software Engineering Manager",
-      link: "https://smrtr.io/bvcYP"
-    },
-    {
-      title: "Software Engineering Manager",
-      link: "https://smrtr.io/bvcYR"
-    },
-    {
-      title: "Test Analyst",
-      link: "https://smrtr.io/bvcZ5"
+      link: "https://smrtr.io/b_mk3"
     },
   ],
-  Management:
+  Product_Manager:
+  [
+    {
+      title: "Product Manager - ERP",
+      link: "https://smrtr.io/b_m5S"
+    },
+    {
+      title: "Product Manager",
+      link: "https://smrtr.io/b_mhP"
+    }
+  ],
+  Agile_Project_Manager:
   [
     {
       title: "Agile Project Manager",
-      link: "https://smrtr.io/bvcZ8"
+      link: "https://smrtr.io/b_m6D"
     }
   ],
-  Writing_or_Editing:
+  Tester:
+  [
+    {
+      title: "Test Analyst",
+      link: "https://smrtr.io/b_m7X"
+    },
+    {
+      title: "Quality Engineer (Tester)",
+      link: "https://smrtr.io/b_mdC"
+    },
+    {
+      title: "Associate Quality Engineer - Testing",
+      link: "https://smrtr.io/b_mjL"
+    }
+  ],
+  Technical_Writer:
   [
     {
       title: "Technical Writer",
-      link: "https://smrtr.io/bvcZd"
-    },
-    {
-      title: "Technical Writer",
-      link: "https://smrtr.io/bvcZg"
+      link: "https://smrtr.io/b_mgM"
     }
   ]
 }
